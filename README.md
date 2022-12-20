@@ -1,5 +1,7 @@
 # Whisper
 
+[![pypi](https://img.shields.io/pypi/v/whisper-openai.svg)](https://pypi.python.org/pypi/whisper-openai)
+
 [[Blog]](https://openai.com/blog/whisper)
 [[Paper]](https://arxiv.org/abs/2212.04356)
 [[Model card]](model-card.md)
